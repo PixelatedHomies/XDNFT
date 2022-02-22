@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x7F6504E5ec3df322c0c4f9753a9c00F3711ad43F",
+  "SCAN_LINK": "https://polygonscan.com/address/0x7f6504e5ec3df322c0c4f9753a9c00f3711ad43f",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "XDNFT",
+  "SYMBOL": "XDNFT",
+  "MAX_SUPPLY": 5,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": "prawie darmo",
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/xd-p6xwaycytk",
+  "SHOW_BACKGROUND": true
+}
